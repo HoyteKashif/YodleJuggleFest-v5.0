@@ -66,13 +66,3 @@ C0 J5 C0:161 C2:112 C1:26, J11 C0:154 C1:27 C2:108, J2 C0:128 C2:68 C1:18, J4 C0
 C2 J6, J3, J10, J0
 C1 J9, J8, J7, J1 
 C0 J5, J11, J2, J4
-
-Run your program on this input file which contains 2000 circuits and
-12000 jugglers. Send us both your code and the output file to the
-following e-mail address: the sum of the names of the jugglers (taking
-off the leading letter J) that are assigned to circuit C1970 @yodle.com.
-So for example if the jugglers assigned to circuit C1970 were
-J1,J2,J3,J4,J5 and J6 you would send your solution to 21@yodle.com
-
-This trick for this problem is to find a solution for the large input
-file which contains 2000 circuits and 12000 jugglers very quickly.
