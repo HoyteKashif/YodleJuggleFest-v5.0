@@ -1,4 +1,4 @@
-2 – Juggle Fest Many developers here at Yodle are avid jugglers. To
+Juggle Fest Many developers here at Yodle are avid jugglers. To
 celebrate their prowess we are organizing a Yodle Open JuggleFest, but
 we need your help planning it. There will be thousands of participants
 split into teams. Each team will attempt to complete a juggling circuit
